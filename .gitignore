@@ -1,0 +1,19 @@
+# Ignorar carpetas de compilación de Visual Studio
+bin/
+obj/
+
+# Ignorar archivos de usuario y configuración local
+*.user
+*.suo
+*.userosscache
+
+# Ignorar archivos de NuGet
+packages/
+
+# Ignorar archivos de depuración y logs
+*.log
+*.cache
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
