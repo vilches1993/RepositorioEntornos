@@ -18,6 +18,8 @@ namespace ProyectoTareasGithub
                 Console.WriteLine("2. Mostrar tareas");
                 Console.WriteLine("3. Eliminar tarea");
                 Console.WriteLine("4. Marcar tarea como completada");
+                Console.WriteLine("Añado una rama nueva");
+                Console.WriteLine("Añado los cambios solicitados por el otro dev");
                 Console.WriteLine("5. Salir");
                 Console.Write("Selecciona una opción: ");
 
